@@ -1,9 +1,11 @@
-Item,Quantity,Description,Footprint,Notes
-Seeeduino XIAO RP2040,1,Microcontroller module,MODULE-SEEEDUINO-XIAO,Main MCU
-Tactile Switch,8,Momentary push button,SW_Push,Direct-wired keys
-Custom PCB,1,Main board,PCB,Manufactured via JLCPCB/PCBWay
-Keycaps,8,MX-compatible keycaps,N/A,Optional for labeling
-USB-C Cable,1,Power + data,N/A,Connects XIAO to PC
-Screws M3x16,4,Case mounting hardware,N/A,Used for top/bottom plate
-3D Printed Case,1,Enclosure,N/A,Printed at school/maker space
-Solder Iron,1,Assembly consumable,N/A,Used for soldering switches + XIAO
+Item,Quantity,Description,Footprint,Estimated Cost (CAD),Notes
+Seeeduino XIAO RP2040,1,Microcontroller module,MODULE-SEEEDUINO-XIAO,10,Main MCU
+Tactile Switch,8,Momentary push button,SW_Push,6,Direct-wired keys
+Custom PCB,1,Main board,PCB,15,Manufactured via JLCPCB/PCBWay
+Keycaps,8,MX-compatible keycaps,N/A,8,Optional for labeling
+USB-C Cable,1,Power + data,N/A,8,Connects XIAO to PC
+Screws M3x16,4,Case mounting hardware,N/A,3,Used for top/bottom plate
+3D Printed Case,1,Enclosure,N/A,10,Printed at school/maker space
+Solder,1,Assembly consumable,N/A,5,Used for soldering switches + XIAO
+
+TOTAL,,Total estimated project cost,,65,Typical range: $55–$90 CAD
