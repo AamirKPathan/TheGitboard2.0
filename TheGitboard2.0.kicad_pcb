@@ -5598,6 +5598,22 @@
 		(uuid "d4e9bbfa-0b81-439a-a73b-18b25c3cb4db")
 	)
 	(segment
+		(start 162.545 103.67403)
+		(end 162.545 105.935)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-PA7_A8_D8_SCK)")
+		(uuid "dece620d-42e2-4572-b11b-5f1654a20e06")
+	)
+	(segment
+		(start 149.975 91.10403)
+		(end 162.545 103.67403)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-PA7_A8_D8_SCK)")
+		(uuid "e2613a18-d491-4902-9a34-fa75911c2b71")
+	)
+	(segment
 		(start 124.445 105.935)
 		(end 143.495 105.935)
 		(width 0.2)
